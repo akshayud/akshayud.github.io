@@ -18,16 +18,14 @@ In this project, we built a scrabble like game using PHP, HTML and CSS. The deve
 
 In this particular project, we built a complete web application with features like User Authentication, A login System and A change password page using Node.js , Express and MongoDB. In this we incorporated Google OAuth Service. The source code can be found here [MEAN Authentication system](https://github.com/akshay9594/MEAN-Stack-Auth-System.git)
 
-## Project 3 : Reddit Clone
+### Project 3 : Reddit Clone
 
 In this project we built a reddit like comment system, wherein one can share a comment, Edit a comment, Like, Dislike or Even Delete one's own comment. We also implemented a simple login system to go with this. The source code can be found at [DIY Reddit](https://github.com/akshay9594/Reddit-Clone.git)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Skills Gained
+
+Before taking this class I didn't have any prior experience in web development. But during the course of the entire class I managed to pickup some valuable skills that I wish to keep for my life. Right from PHP, HTML and CSS to the MEAN Stack and then onto Firebase and AWS, I got to learn a lot in a matter of three months. Coming to the Security side of things, I got to learn different types of attacks- XSS attack, Session hijacking, SQL Injection and CSRF attacks. This has changed my perspective into not just building applications but building applications with the utmost level of security. All this was vital for me.
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akshayud/akshayud.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
