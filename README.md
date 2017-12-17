@@ -28,6 +28,7 @@ Before taking this class I didn't have any prior experience in web development. 
 
 ## Contact
 linkedin : [Profile](https://www.linkedin.com/in/akshay-bhosale-a0b5b1103?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuLoP2q%2BySvC319539r6W5g%3D%3D)
+Email: akshay@udel.edu
 
 ### Jekyll Themes
 
