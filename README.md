@@ -1,4 +1,4 @@
-# Welcome to My portfolio
+# My Portfolio
 
 You can use the [editor on GitHub](https://github.com/akshayud/akshayud.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,9 @@ In this project we built a reddit like comment system, wherein one can share a c
 ## Skills Gained
 
 Before taking this class I didn't have any prior experience in web development. But during the course of the entire class I managed to pickup some valuable skills that I wish to keep for my life. Right from PHP, HTML and CSS to the MEAN Stack and then onto Firebase and AWS, I got to learn a lot in a matter of three months. Coming to the Security side of things, I got to learn different types of attacks- XSS attack, Session hijacking, SQL Injection and CSRF attacks. This has changed my perspective into not just building applications but building applications with the utmost level of security. All this was vital for me.
+
+## Contact
+linkedin : [Profile](https://www.linkedin.com/in/akshay-bhosale-a0b5b1103?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuLoP2q%2BySvC319539r6W5g%3D%3D)
 
 ### Jekyll Themes
 
