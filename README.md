@@ -11,7 +11,7 @@ I am currently in my first year of graduate studies at the University of Delawar
 Web Application Security was one of the courses in which I got to do some awesome projects. These were basically Web Development kind of projects with an added security aspect.
 
 ```markdown
-## **Twist Clone**
+**Twist Clone**
 
 
 - Bulleted
