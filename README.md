@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/akshayud/akshayud.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-## Something about me
+# Something about me
 
 I am currently in my first year of graduate studies at the University of Delaware in Newark,DE . My current major is Computer Engineering.Last semester my major focussed on courses in Cybersecurity, and an Computer Architecture course. My Undergrad major was Electronics Engineering. This page will give you a comprehensive overview of all my projects. 
 
@@ -22,13 +22,14 @@ In this particular project, we built a complete web application with features li
 
 In this project we built a reddit like comment system, wherein one can share a comment, Edit a comment, Like, Dislike or Even Delete one's own comment. We also implemented a simple login system to go with this. The source code can be found at [DIY Reddit](https://github.com/akshay9594/Reddit-Clone.git)
 
-## Skills Gained
+### Skills Gained
 
 Before taking this class I didn't have any prior experience in web development. But during the course of the entire class I managed to pickup some valuable skills that I wish to keep for my life. Right from PHP, HTML and CSS to the MEAN Stack and then onto Firebase and AWS, I got to learn a lot in a matter of three months. Coming to the Security side of things, I got to learn different types of attacks- XSS attack, Session hijacking, SQL Injection and CSRF attacks. This has changed my perspective into not just building applications but building applications with the utmost level of security. All this was vital for me.
 
 ## Contact
 linkedin : [Profile](https://www.linkedin.com/in/akshay-bhosale-a0b5b1103?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuLoP2q%2BySvC319539r6W5g%3D%3D)
-Email: akshay@udel.edu
+
+email: akshay@udel.edu
 
 ### Jekyll Themes
 
