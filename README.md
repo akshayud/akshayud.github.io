@@ -2,7 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/akshayud/akshayud.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Something about me:
+I currently in my first year of graduate studies at the University of Delaware in Newark,DE . My current major is Computer Engineering.
+Last semester my major focussed on courses in Cybersecurity and an Computer Architectures course. My Undergrad major was Electrical Engineering.
 
 ### Markdown
 
