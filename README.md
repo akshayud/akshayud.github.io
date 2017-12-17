@@ -2,9 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/akshayud/akshayud.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Something about me:
-I currently in my first year of graduate studies at the University of Delaware in Newark,DE . My current major is Computer Engineering.
-Last semester my major focussed on courses in Cybersecurity and an Computer Architectures course. My Undergrad major was Electrical Engineering.
+## Something about me
+
+I am currently in my first year of graduate studies at the University of Delaware in Newark,DE . My current major is Computer Engineering.Last semester my major focussed on courses in Cybersecurity, and an Computer Architecture course. My Undergrad major was Electronics Engineering. This page will give you a comprehensive overview of all my projects. 
 
 ### Markdown
 
