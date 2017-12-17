@@ -6,16 +6,13 @@ You can use the [editor on GitHub](https://github.com/akshayud/akshayud.github.i
 
 I am currently in my first year of graduate studies at the University of Delaware in Newark,DE . My current major is Computer Engineering.Last semester my major focussed on courses in Cybersecurity, and an Computer Architecture course. My Undergrad major was Electronics Engineering. This page will give you a comprehensive overview of all my projects. 
 
-### Markdown
+### Web Application Security Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Web Application Security was one of the courses in which I got to do some awesome projects. These were basically Web Development kind of projects with an added security aspect.
 
 ```markdown
-Syntax highlighted code block
+## **Twist Clone**
 
-# Projects
-## Header 2
-### Header 3
 
 - Bulleted
 - List
