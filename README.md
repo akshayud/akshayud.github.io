@@ -1,4 +1,4 @@
-## Welcome to My portfolio
+# Welcome to My portfolio
 
 You can use the [editor on GitHub](https://github.com/akshayud/akshayud.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,24 +6,13 @@ You can use the [editor on GitHub](https://github.com/akshayud/akshayud.github.i
 
 I am currently in my first year of graduate studies at the University of Delaware in Newark,DE . My current major is Computer Engineering.Last semester my major focussed on courses in Cybersecurity, and an Computer Architecture course. My Undergrad major was Electronics Engineering. This page will give you a comprehensive overview of all my projects. 
 
-### Web Application Security Projects
+## Web Application Security Projects
 
 Web Application Security was one of the courses in which I got to do some awesome projects. These were basically Web Development kind of projects with an added security aspect.
 
-```markdown
-**Twist Clone**
+### Project 1 : Text Twist Clone
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+In this project, we built a scrabble like game using PHP, HTML and CSS. The development process involved providing the player with a jumbled set of words and then comparing every guess the player makes with words in an SQLite databse. My role was to assist with the PHP script for fetching and comparing words from the database as well as styling the page. The source code can be found here [Code on Github](https://github.com/akshay9594/Text-twist)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
