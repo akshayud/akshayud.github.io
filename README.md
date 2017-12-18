@@ -1,5 +1,3 @@
-# My Portfolio
-
 # Something about me
 
 I am currently in my first year of graduate studies at the University of Delaware in Newark,DE . My current major is Computer Engineering.Last semester my major focussed on courses in Cybersecurity, and an Computer Architecture course. My Undergrad major was Electronics Engineering. This page will give you a comprehensive overview of all my projects. 
