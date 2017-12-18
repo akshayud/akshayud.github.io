@@ -1,7 +1,5 @@
 # My Portfolio
 
-You can use the [editor on GitHub](https://github.com/akshayud/akshayud.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 # Something about me
 
 I am currently in my first year of graduate studies at the University of Delaware in Newark,DE . My current major is Computer Engineering.Last semester my major focussed on courses in Cybersecurity, and an Computer Architecture course. My Undergrad major was Electronics Engineering. This page will give you a comprehensive overview of all my projects. 
@@ -30,7 +28,3 @@ Before taking this class I didn't have any prior experience in web development. 
 linkedin : [Profile](https://www.linkedin.com/in/akshay-bhosale-a0b5b1103?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuLoP2q%2BySvC319539r6W5g%3D%3D)
 
 email: akshay@udel.edu
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/akshayud/akshayud.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
