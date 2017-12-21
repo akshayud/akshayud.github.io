@@ -27,6 +27,6 @@ Before taking this class I didn't have any prior experience in web development. 
 If you would like to checkout the projects me and my team designed in Secure Software Design, Follow this [link](http://secure-software.akshayud.me/)
 
 ## Contact
-linkedin : [Profile](https://www.linkedin.com/in/akshay-bhosale-a0b5b1103?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuLoP2q%2BySvC319539r6W5g%3D%3D)
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> : [Profile](https://www.linkedin.com/in/akshay-bhosale-a0b5b1103?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuLoP2q%2BySvC319539r6W5g%3D%3D)
 
 email: akshay@udel.edu
