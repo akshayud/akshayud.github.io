@@ -42,8 +42,8 @@ If you would like to checkout the projects me and my team designed in Secure Sof
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-<i style="font-size:24px" class="fa">&#xf08c;</i>&nbsp; &nbsp;
-<a class="LI-simple-link" href='https://in.linkedin.com/in/akshay-bhosale-a0b5b1103?trk=profile-badge'>Linkedin</a></div>
+<i style="font-size:30px" class="fa">&#xf08c;</i>&nbsp; &nbsp;
+<a class="LI-simple-link" href='https://in.linkedin.com/in/akshay-bhosale-a0b5b1103?trk=profile-badge'>Linkedin</a>
 
 
 
