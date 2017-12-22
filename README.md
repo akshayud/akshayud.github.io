@@ -26,7 +26,7 @@ Before taking this class I didn't have any prior experience in web development. 
 
 If you would like to checkout the projects me and my team designed in Secure Software Design, Follow this [link](http://secure-software.akshayud.me/)
 
-## Contact
+## Personal References
 
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
