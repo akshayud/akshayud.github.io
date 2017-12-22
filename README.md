@@ -43,7 +43,7 @@ If you would like to checkout the projects me and my team designed in Secure Sof
 </head>
 <body>
 <i style="font-size:30px" class="fa">&#xf08c;</i>&nbsp; &nbsp;
-<a class="LI-simple-link" href='https://in.linkedin.com/in/akshay-bhosale-a0b5b1103?trk=profile-badge'>Linkedin</a><br />
-<i style="font-size:24px" class="fa">&#xf09b;</i> <a href= 'https://github.com/akshay9594'>&nbsp;&nbsp;&nbsp;Github</a>
+<a class="LI-simple-link" href='https://in.linkedin.com/in/akshay-bhosale-a0b5b1103?trk=profile-badge'>Linkedin</a><br /><br />
+<i style="font-size:24px" class="fa">&#xf09b;</i> <a href= 'https://github.com/akshay9594'>&nbsp;&nbsp;&nbsp;&nbsp;Github</a>
 </body>
 
