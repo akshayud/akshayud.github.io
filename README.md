@@ -24,7 +24,7 @@ Before taking this class I didn't have any prior experience in web development. 
 
 ## Secure Software design portfolio
 
-If you would like to checkout the projects me and my team designed in Secure Software Design, Follow this [link](http://secure-software.akshayud.me/)
+If you would like to checkout the projects me and my team designed in Secure Software Design, Follow this ![alt text](http://secure-software.akshayud.me/)
 
 ## Contact
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="akshay-bhosale-a0b5b1103"><a class="LI-simple-link" href='https://in.linkedin.com/in/akshay-bhosale-a0b5b1103?trk=profile-badge'>Linkedin</a></div>
