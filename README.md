@@ -1,6 +1,10 @@
 # Something about me
 
-I am currently in my first year of graduate studies at the University of Delaware in Newark,DE . My current major is Computer Engineering.Last semester my major focussed on courses in Cybersecurity, and an Computer Architecture course. My Undergrad major was Electronics Engineering. This page will give you a comprehensive overview of all my projects. 
+I am currently in my second year of graduate studies at the University of Delaware in Newark,DE . My current major is Computer Engineering.My Undergrad major was Electronics Engineering. I have completed coursework in a variety of areas ranging from web application security, computer architecture, secure software design to parallel programming and cryptography. This page will give you a comprehensive overview of all my work.
+
+## Current Research
+
+My current research involves compilers, more specifically compilers for autoparallelization.I am currently in the process of analyzing benchmark codes to identify problems during automatic parallelization. I want to develop compiler techniques to be able to parallelize complex parallelizable loop patterns as well as explore the possibilities of using Machine Learning to suggest optimizations to the user. Cetus , is the autoparallelization compiler framework I work with. Prof. Rudi Eigenmann a pioneer in this field is guiding my research.
 
 ## Web Application Security Projects
 
