@@ -4,7 +4,7 @@ I am currently in my second year of graduate studies at the University of Delawa
 
 ## Current Research
 
-My current research involves compilers, more specifically compilers for autoparallelization.I am currently in the process of analyzing benchmark codes to identify problems during automatic parallelization. I want to develop compiler techniques to be able to parallelize complex parallelizable loop patterns as well as explore the possibilities of using Machine Learning to suggest optimizations to the user. Cetus , is the autoparallelization compiler framework I work with. Prof. Rudi Eigenmann a pioneer in this field is guiding my research.
+My current research involves compilers, more specifically compilers for autoparallelization. I work with the Cetus Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts.
 
 ## Web Application Security Projects
 
