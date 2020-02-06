@@ -1,4 +1,4 @@
-<pre> </pre>![image](https://user-images.githubusercontent.com/31522126/73979783-d8886f80-48fc-11ea-870c-7d60bae6ef26.png)
+   ![image](https://user-images.githubusercontent.com/31522126/73979783-d8886f80-48fc-11ea-870c-7d60bae6ef26.png)
 
 
 # Something about me
