@@ -7,7 +7,7 @@ I am currently working towards my PhD at the University of Delaware in Newark,DE
 
 ## Current Research
 
-My current research involves compilers, more specifically compilers for autoparallelization. I work with the Cetus Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts.
+My current research involves compilers, more specifically compilers for autoparallelization. I work with the Cetus Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts. Details about this project and current progress can be found at [link](http://subscripted-subscript.akshayud.me/)
 
 ## Web Application Security Projects
 Building applications using PHP, HTML and javascript. Emphasis was on building secure applications for the we. Follo this [link](http://webappsecurity.akshayud.me/) for detailed overview of all the projects.
