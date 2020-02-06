@@ -1,5 +1,4 @@
-
-![image](https://user-images.githubusercontent.com/31522126/73979457-2d77b600-48fc-11ea-85c8-068c2c5aa181.png)
+![image](https://user-images.githubusercontent.com/31522126/73979783-d8886f80-48fc-11ea-870c-7d60bae6ef26.png)
 
 
 # Something about me
