@@ -5,7 +5,7 @@
 
 I am currently working towards my PhD at the University of Delaware in Newark,DE . My major is Computer Engineering.My Undergrad major was Electronics Engineering. I have completed coursework in a variety of areas ranging from web application security, computer architecture, secure software design to parallel programming, compilers , ML and cryptography. This page will give you a comprehensive overview of all my work.
 
-## __Princial Research Interests__
+## __Principal Research Interests__
   * Compilers for HPC
   * Source to Source Translators
   * Parallel programming paradigms
