@@ -20,7 +20,7 @@ My current research involves compilers, more specifically compilers for autopara
 Building applications using PHP, HTML and javascript. Emphasis was on building secure applications for the web but keeping in mind the secuirty of these applications. Details about the projects and the skills gained can be found at the link above. 
 
 
-## [Secure Software design portfolio]((http://secure-software.akshayud.me/))
+## [Secure Software design portfolio](http://secure-software.akshayud.me/)
 
 Creatiing secure software applications is the need of the hour so as to address issues regarding cybersecurity. With this in mind, we created non-hackable applications which serve a purpose.
 
@@ -29,7 +29,7 @@ Creatiing secure software applications is the need of the hour so as to address 
 * Education:
   * PhD (Since 2019) - [University of Delaware](https://www.udel.edu/)
   * B.E (2016) - [University of Mumbai](http://mu.ac.in/)
-  
+  <br/><br/>
 * Other subjects/research of interest:
     * Machine Learning
     * Smart Systems
