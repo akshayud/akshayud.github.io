@@ -20,11 +20,13 @@ My current research for my PhD involves compilers, more specifically compilers f
 
 I part of the HPC Lab at UD headed by Prof. [Rudi Eigenmann](https://www.ece.udel.edu/people/faculty/eigenman/). We create software tools to support the larger community involved in HPC research. We are interested in providing support to domain scientists to advance their research through HPC.
 
-## [Web Application Security Projects](http://webappsecurity.akshayud.me/)
+## Past Projects
+
+### [Web Application Security Projects](http://webappsecurity.akshayud.me/)
 Building applications using PHP, HTML and javascript. Emphasis was on building secure applications for the web but keeping in mind the secuirty of these applications. Details about the projects and the skills gained can be found at the link above. 
 
 
-## [Secure Software design portfolio](http://secure-software.akshayud.me/)
+### [Secure Software design portfolio](http://secure-software.akshayud.me/)
 
 Creating secure software applications is the need of the hour so as to address issues regarding cybersecurity. With this in mind, we created non-hackable applications which serve a purpose.
 
@@ -39,7 +41,7 @@ Creating secure software applications is the need of the hour so as to address i
     * Smart Systems
     * Computer Archiecture
 
-## Personal References
+## Contact Info
 
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
