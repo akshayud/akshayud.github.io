@@ -43,6 +43,10 @@ Creating secure software applications is the need of the hour, so as to address 
 
 ## __Contact Info__
 
+Department of Electrical and Computer Engineering
+208 Evans Hall
+Newark,DE,USA
+
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
 </head>
