@@ -14,7 +14,11 @@ I am currently working towards my PhD at the University of Delaware in Newark,DE
 
 ## Current Research - [Subscripted-subscript analysis](http://subscripted-subscript.akshayud.me/)
 
-My current research involves compilers, more specifically compilers for autoparallelization. I work with the Cetus Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts. Details about this project and current progress can be found at link above.
+My current research for my PhD involves compilers, more specifically compilers for autoparallelization. I work with the Cetus Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts. Details about this project and current progress can be found at link above.
+
+## [HPC Lab at the University of Delaware](https://www.eecis.udel.edu/~eigenman/research.html)
+
+I part of the HPC Lab at UD headed by Prof. [Rudi Eigenmann](https://www.ece.udel.edu/people/faculty/eigenman/). We create software tools to support the larger community involved in HPC research. We are interested in providing support to domain scientists to advance their research through HPC.
 
 ## [Web Application Security Projects](http://webappsecurity.akshayud.me/)
 Building applications using PHP, HTML and javascript. Emphasis was on building secure applications for the web but keeping in mind the secuirty of these applications. Details about the projects and the skills gained can be found at the link above. 
