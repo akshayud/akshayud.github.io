@@ -22,7 +22,7 @@ Building applications using PHP, HTML and javascript. Emphasis was on building s
 
 ## [Secure Software design portfolio](http://secure-software.akshayud.me/)
 
-Creatiing secure software applications is the need of the hour so as to address issues regarding cybersecurity. With this in mind, we created non-hackable applications which serve a purpose.
+Creating secure software applications is the need of the hour so as to address issues regarding cybersecurity. With this in mind, we created non-hackable applications which serve a purpose.
 
 ## Personal Background
 
