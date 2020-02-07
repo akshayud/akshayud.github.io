@@ -4,3 +4,5 @@ description: By Akshay Bhosale (PhD Student)
 
 remote_theme: Flexible-Jekyll
  
+
+theme: jekyll-theme-cayman
