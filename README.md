@@ -5,14 +5,14 @@
 
 I am currently working towards my PhD at the University of Delaware in Newark,DE . My major is Computer Engineering.My Undergrad major was Electronics Engineering. I have completed coursework in a variety of areas ranging from web application security, computer architecture, secure software design to parallel programming, compilers , ML and cryptography. This page will give you a comprehensive overview of all my work.
 
-## Princial Research Interests
+## __Princial Research Interests__
   * Compilers for HPC
   * Source to Source Translators
   * Parallel programming paradigms
   * Algorithms
 
 
-## Current Research - [Subscripted-subscript analysis](http://subscripted-subscript.akshayud.me/)
+## __Current Research__ - [Subscripted-subscript analysis](http://subscripted-subscript.akshayud.me/)
 
 My current research for my PhD involves compilers, more specifically compilers for autoparallelization. I work with the Cetus Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts. Details about this project and current progress can be found at link above.
 
@@ -20,7 +20,7 @@ My current research for my PhD involves compilers, more specifically compilers f
 
 I part of the HPC Lab at UD headed by Prof. [Rudi Eigenmann](https://www.ece.udel.edu/people/faculty/eigenman/). We create software tools to support the larger community involved in HPC research. We are interested in providing support to domain scientists to advance their research through HPC.
 
-## Past Projects
+## __Past Projects__
 
 ### [Web Application Security Projects](http://webappsecurity.akshayud.me/)
 Building applications using PHP, HTML and javascript. Emphasis was on building secure applications for the web but keeping in mind the secuirty of these applications. Details about the projects and the skills gained can be found at the link above. 
@@ -30,7 +30,7 @@ Building applications using PHP, HTML and javascript. Emphasis was on building s
 
 Creating secure software applications is the need of the hour so as to address issues regarding cybersecurity. With this in mind, we created non-hackable applications which serve a purpose.
 
-## Personal Background
+## __Personal Background__
 
 * Education:
   * PhD (Since 2019) - [University of Delaware](https://www.udel.edu/)
@@ -41,7 +41,7 @@ Creating secure software applications is the need of the hour so as to address i
     * Smart Systems
     * Computer Archiecture
 
-## Contact Info
+## __Contact Info__
 
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
