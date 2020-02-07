@@ -27,13 +27,13 @@ Creatiing secure software applications is the need of the hour so as to address 
 ## Personal Background
 
 * Education:
- ** PhD (Since 2019) - [University of Delaware](https://www.udel.edu/)
- ** B.E (2016) - [University of Mumbai](http://mu.ac.in/)
+  * PhD (Since 2019) - [University of Delaware](https://www.udel.edu/)
+  * B.E (2016) - [University of Mumbai](http://mu.ac.in/)
   
 * Other subjects/research of interest:
-   ** Machine Learning
-   ** Smart Systems
-   ** Computer Archiecture
+    * Machine Learning
+    * Smart Systems
+    * Computer Archiecture
 
 ## Personal References
 
