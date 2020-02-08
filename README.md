@@ -10,6 +10,11 @@ I am currently working towards my PhD at the University of Delaware in Newark,DE
   * Source to Source Translators
   * Parallel programming paradigms
   * Algorithms
+  
+### __Other subjects/research of interest__
+    * Machine Learning
+    * Smart Systems
+    * Computer Archiecture
 
 
 ## __Current Research__ - [Subscripted-subscript analysis](http://subscripted-subscript.akshayud.me/)
@@ -32,14 +37,15 @@ Creating secure software applications is the need of the hour, so as to address 
 
 ## __Personal Background__
 
-* Education:
+* __Education__:
   * PhD (Since 2019) - [University of Delaware](https://www.udel.edu/)
   * B.E (2016) - [University of Mumbai](http://mu.ac.in/)
   <br/><br/>
-* Other subjects/research of interest:
-    * Machine Learning
-    * Smart Systems
-    * Computer Archiecture
+* __Leadership Positions held at University of Delaware__
+  * International Student Leader(2018 - present) - [Office of Internationa Students and Scholars](http://www1.udel.edu/oiss/)
+  * Team Lead - [iBuddy Global Mentoring Program](http://www1.udel.edu/oiss/isac/mentor)
+  * Board Member - [Student Diversity and Inclusion Advisory Board](https://sites.udel.edu/studentlife/diversity)
+  * Senator - [Graduate Student Government](https://sites.udel.edu/gsg/)
 
 ## __Contact Info__
 
