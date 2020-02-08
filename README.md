@@ -12,7 +12,7 @@ I am currently working towards my PhD at the University of Delaware in Newark,DE
   * Parallel programming paradigms
   * Algorithms
   
-## __Other subjects/research of interest__
+## __Other subjects/research areas of interest__
   * Machine Learning
   * Smart Systems
   * Computer Systems Architecture
