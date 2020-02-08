@@ -6,15 +6,16 @@
 I am currently working towards my PhD at the University of Delaware in Newark,DE . My major is Computer Engineering.My Undergrad major was Electronics Engineering. I have completed coursework in a variety of areas ranging from web application security, computer architecture, secure software design to parallel programming, compilers , ML and cryptography. This page will give you a comprehensive overview of all my work.
 
 ## __Principal Research Interests__
-  * Compilers for HPC
+  * Software for High Performance Computing
+  * Compilers for High Performance Computing
   * Source to Source Translators
   * Parallel programming paradigms
   * Algorithms
   
-### __Other subjects/research of interest__
-    * Machine Learning
-    * Smart Systems
-    * Computer Archiecture
+## __Other subjects/research of interest__
+  * Machine Learning
+  * Smart Systems
+  * Computer Systems Architecture
 
 
 ## __Current Research__ - [Subscripted-subscript analysis](http://subscripted-subscript.akshayud.me/)
