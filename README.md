@@ -43,10 +43,10 @@ Creating secure software applications is the need of the hour, so as to address 
   * B.E (2016) - [University of Mumbai](http://mu.ac.in/)
   <br/><br/>
 * __Leadership Positions held at University of Delaware__
+  * VP Student Affairs - [Graduate Student Government](https://sites.udel.edu/gsg/)
   * International Student Leader(2018 - present) - [Office of International Students and Scholars](http://www1.udel.edu/oiss/)
   * Team Lead - [Blue Hen iBuddy Global Mentoring Program](http://www1.udel.edu/oiss/isac/mentor)
-  * Board Member - [Student Diversity and Inclusion Advisory Board](https://sites.udel.edu/studentlife/diversity)
-  * Senator - [Graduate Student Government](https://sites.udel.edu/gsg/)
+  
 
 ## __Contact Info__
 
