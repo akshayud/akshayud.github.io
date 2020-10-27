@@ -20,10 +20,10 @@ I am currently working towards my PhD at the University of Delaware in Newark,DE
 
 ## __Current Research__ - [Subscripted-subscript analysis](http://subscripted-subscript.akshayud.me/)
 
-My current research for my PhD involves compilers, more specifically compilers for autoparallelization. I work with the Cetus Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts. Details about this project and current progress can be found at link above.
+My current research for my PhD involves compilers, more specifically compilers for autoparallelization. I work with the Cetus Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts. Details about this project and current progress can be found at link above. 
 
 ## __Publications__
-* Bhosale, Akshay, and Rudolf Eigenmann. "[Compile-time Parallelization of Subscripted Subscript Patterns](https://ieeexplore.ieee.org/abstract/document/9150392?    casa_token=t0g4f4I0ce0AAAAA:qM6cBc5kn9EEtWBCc-BJKqLzxdfFv-B48LH4v_oJZ0ikzHyl9sQm6nI7S8pkTREOHxNJn5Sgyw)" 2020 IEEE International Parallel and Distributed Processing Symposium   Workshops (IPDPSW). IEEE, 2020.
+Bhosale, Akshay, and Rudolf Eigenmann. "[Compile-time Parallelization of Subscripted Subscript Patterns](https://ieeexplore.ieee.org/abstract/document/9150392?    casa_token=t0g4f4I0ce0AAAAA:qM6cBc5kn9EEtWBCc-BJKqLzxdfFv-B48LH4v_oJZ0ikzHyl9sQm6nI7S8pkTREOHxNJn5Sgyw)" 2020 IEEE International Parallel and Distributed Processing Symposium   Workshops (IPDPSW). IEEE, 2020.
 
 ## [HPC Lab at the University of Delaware](https://www.eecis.udel.edu/~eigenman/research.html)
 
