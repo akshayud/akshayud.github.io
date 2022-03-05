@@ -1,5 +1,5 @@
   
- <img style="float: middle;" src="https://user-images.githubusercontent.com/31522126/73979783-d8886f80-48fc-11ea-870c-7d60bae6ef26.png">
+ <img style="float: middle;" src="https://user-images.githubusercontent.com/31522126/73979783-d8886f80-48fc-11ea-870c-7d60bae6ef26.png" width=250 height=250>
 
 # __Something about me__
 
