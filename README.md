@@ -6,21 +6,25 @@
 I am currently working towards my PhD at the University of Delaware in Newark,DE . My major is Computer Engineering.My Undergrad major was Electronics Engineering. I have completed coursework in a variety of areas ranging from web application security, computer architecture, secure software design to parallel programming, compilers , ML and cryptography. This page will give you a comprehensive overview of all my work.
 
 ## __Principal Research Interests__
-  * Software for High Performance Computing
-  * Compilers for High Performance Computing
+  * Automatic Parallelization
+  * Multi-Level Intermediate Representation (MLIR)
   * Source to Source Translators
   * Parallel programming paradigms
-  * Algorithms
+  * Compile-time analysis and transformation techniques
   
 ## __Other subjects/research areas of interest__
   * Machine Learning
-  * Smart Systems
   * Computer Systems Architecture
 
 
-## __Current Research__ - [Subscripted-subscript analysis](http://subscripted-subscript.akshayud.me/)
+## __Current Research__ 
+1. At the [Pacific Northwest National Lab](https://www.pnnl.gov)
 
-My current research for my PhD involves compilers, more specifically compilers for autoparallelization. I work with the Cetus Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts. Details about this project and current progress can be found at link above. 
+In this project we are implementing a Python frontend for a Domain Specific Compiler base on [MLIR](https://mlir.llvm.org) for Computational Chemistry applications. The compiler is called [COMET](https://arxiv.org/pdf/2102.06827.pdf). 
+
+2. At the University of Delaware - [Subscripted-subscript analysis](http://subscripted-subscript.akshayud.me/)
+
+My current research for my PhD involves compilers for autoparallelization. I work with the [Cetus](https://sites.udel.edu/cetus-cid/) Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts. Details about this project and current progress can be found at link above. 
 
 ## __Publications__
 
