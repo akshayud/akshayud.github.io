@@ -31,7 +31,8 @@ My current research for my PhD involves compilers for autoparallelization. I wor
 
 * Bhosale, Akshay, and Rudolf Eigenmann. [Compile-time Parallelization of Subscripted Subscript Patterns](https://ieeexplore.ieee.org/abstract/document/9150392?    casa_token=t0g4f4I0ce0AAAAA:qM6cBc5kn9EEtWBCc-BJKqLzxdfFv-B48LH4v_oJZ0ikzHyl9sQm6nI7S8pkTREOHxNJn5Sgyw) 2020 IEEE International Parallel and Distributed Processing Symposium   Workshops (IPDPSW). IEEE, 2020.
 
-## [HPC Lab at the University of Delaware](https://www.eecis.udel.edu/~eigenman/research.html)
+## __HPC Lab at the University of Delaware__ 
+Lab Website - (https://www.eecis.udel.edu/~eigenman/research.html)
 
 I am a part of the HPC Lab at UD headed by Prof. [Rudi Eigenmann](https://www.ece.udel.edu/people/faculty/eigenman/). We create software tools to support the larger community involved in HPC research. We are interested in providing support to domain scientists to advance their research through HPC.
 
