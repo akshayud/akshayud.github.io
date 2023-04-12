@@ -17,11 +17,7 @@ I am currently working towards my PhD at the University of Delaware in Newark,DE
   * Computer Systems Architecture
 
 
-## __Current Research__ 
-
-* At the [Pacific Northwest National Lab](https://www.pnnl.gov)
-
-In this project we are implementing a Python frontend for a Domain Specific Compiler base on [MLIR](https://mlir.llvm.org) for Computational Chemistry applications. The compiler is called [COMET](https://arxiv.org/pdf/2102.06827.pdf). 
+## __Current Research__
 
 * At the University of Delaware - [Subscripted-subscript analysis](http://subscripted-subscript.akshayud.me/)
 
@@ -38,6 +34,12 @@ My current research for my PhD involves compilers for autoparallelization. I wor
 ## [HPC Lab at the University of Delaware](https://www.eecis.udel.edu/~eigenman/research.html)
 
 I am a part of the HPC Lab at UD headed by Prof. [Rudi Eigenmann](https://www.ece.udel.edu/people/faculty/eigenman/). We create software tools to support the larger community involved in HPC research. We are interested in providing support to domain scientists to advance their research through HPC.
+
+## __Internships__ 
+At the [Pacific Northwest National Lab](https://www.pnnl.gov)
+
+In this project we implemented a Python frontend for a Domain Specific Compiler base on [MLIR](https://mlir.llvm.org) for Computational Chemistry applications. The compiler is called [COMET](https://github.com/pnnl/COMET). 
+
 
 ## __Past Projects__
 
