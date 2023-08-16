@@ -5,6 +5,9 @@
 
 I am currently working towards my PhD at the University of Delaware in Newark,DE . My major is Computer Engineering.My Undergrad major was Electronics Engineering. I have completed coursework in a variety of areas ranging from web application security, computer architecture, secure software design to parallel programming, compilers , ML and cryptography. This page will give you a comprehensive overview of all my work.
 
+## __Formal CV__
+You can find my CV here : [Akshay's CV](https://akshayud.me/Akshay_CV.pdf)
+
 ## __Principal Research Interests__
   * Automatic Parallelization
   * Multi-Level Intermediate Representation (MLIR)
@@ -27,7 +30,7 @@ My current research for my PhD involves compilers for autoparallelization. I wor
 
 * Akshay Bhosale, Parinaz Barakhshan, Miguel Romero Rosas. [Automatic and Interactive Program Parallelization Using the Cetus Source to Source Compiler Infrastructure v2.0](https://www.mdpi.com/2079-9292/11/5/809). Special Issue "Program Analysis and Optimizing Compilers for High-Performance Computing", Electronics. 2022; 11(5):809.
 
-* Akshay Bhosale and Rudolf Eigenmann. [On the automatic parallelization of subscripted subscript patterns using array property analysis](https://dl.acm.org/doi/10.1145/3447818.3460424). In Proceedings of the ACM International Conference on Supercomputing (ICS '21). Association for Computing Machinery, New York, NY, USA, 392–403. 2021. 
+* Akshay Bhosale and Rudolf Eigenmann. [On the automatic parallelization of subscripted subscript patterns using array property analysis](https://dl.acm.org/doi/10.1145/3447818.3460424). In Proceedings of the ACM International Conference on Supercomputing (ICS '21). Association for Computing Machinery, New York, NY, USA, 392–403. 2021. [Erratum](https://akshayud.me/Erratum_ICS2021.pdf)
 
 * Bhosale, Akshay, and Rudolf Eigenmann. [Compile-time Parallelization of Subscripted Subscript Patterns](https://ieeexplore.ieee.org/abstract/document/9150392?    casa_token=t0g4f4I0ce0AAAAA:qM6cBc5kn9EEtWBCc-BJKqLzxdfFv-B48LH4v_oJZ0ikzHyl9sQm6nI7S8pkTREOHxNJn5Sgyw) 2020 IEEE International Parallel and Distributed Processing Symposium   Workshops (IPDPSW). IEEE, 2020.
 
