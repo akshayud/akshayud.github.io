@@ -31,7 +31,7 @@ My current research for my PhD involves compilers for autoparallelization. I wor
 * Akshay Bhosale and Rudolf Eigenmann. [Recurrence Analysis for Automatic Parallelization of Subscripted Subscripts](https://akshayud.me/PPoPP2024_intermin_draft.pdf). Accepted to appear in the Proceedings of the 29th ACM SIGPLAN Annual Symposium on
 Principles and Practice of Parallel Programming (PPoPP '24). Association for Computing Machinery, New York, NY, USA, 2024.
 
-Akshay Bhosale and Rudolf Eigenmann. [COMPASS: A Combined Parallel Subscripted Subscript Benchmark Suite](https://akshayud.me/LCPC2023_final.pdf). Accepted to appear in the Proceedings of the 36th workshop on Languages and Compilers for Parallel Computing (LCPC '23). Springer, 2023.
+* Akshay Bhosale and Rudolf Eigenmann. [COMPASS: A Combined Parallel Subscripted Subscript Benchmark Suite](https://akshayud.me/LCPC2023_final.pdf). Accepted to appear in the Proceedings of the 36th workshop on Languages and Compilers for Parallel Computing (LCPC '23). Springer, 2023.
 
 * Akshay Bhosale, Parinaz Barakhshan, Miguel Romero Rosas. [Automatic and Interactive Program Parallelization Using the Cetus Source to Source Compiler Infrastructure v2.0](https://www.mdpi.com/2079-9292/11/5/809). Special Issue "Program Analysis and Optimizing Compilers for High-Performance Computing", Electronics. 2022; 11(5):809.
 
