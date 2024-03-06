@@ -1,9 +1,10 @@
-  
+![image](https://github.com/akshayud/akshayud.github.io/assets/31522126/287361a6-4580-434a-97f4-3e37f9c014b1)  
 <p style="text-align:center;"> <img style="float: middle;" src="https://user-images.githubusercontent.com/31522126/73979783-d8886f80-48fc-11ea-870c-7d60bae6ef26.png" width=250 height=250></p>
 
 # __Something about me__
 
-I am currently working towards my PhD at the University of Delaware in Newark,DE . My major is Computer Engineering.My Undergrad major was Electronics Engineering. I have completed coursework in a variety of areas ranging from web application security, computer architecture, secure software design to parallel programming, compilers , ML and cryptography. This page will give you a comprehensive overview of all my work.
+I recently moved to University of Cambridge, UK and have assumed a Postdoctoral Researcher position. I am working with Dr. Timothy Jones in the Computer
+Architecture group, Dept. of Computer Science at the university.
 
 ## __Formal CV__
 You can find my CV here : [Akshay's CV](https://akshayud.me/Akshay_CV.pdf)
@@ -19,17 +20,10 @@ You can find my CV here : [Akshay's CV](https://akshayud.me/Akshay_CV.pdf)
   * Machine Learning
   * Computer Systems Architecture
 
-
-## __Current Research__
-
-* At the University of Delaware - [Subscripted-subscript analysis](http://subscripted-subscript.akshayud.me/)
-
-My current research for my PhD involves compilers for autoparallelization. I work with the [Cetus](https://sites.udel.edu/cetus-cid/) Source to Source translator which translates from C to C annoted with OpenMP. I want to make Cetus as powerful as possible through the use of even more sophisticated techniques. Current challenge is to develop a compiler technique for the automatic parallelization of subscripted subscripts. Details about this project and current progress can be found at link above. 
-
 ## __Publications__
 
-* Akshay Bhosale and Rudolf Eigenmann. [Recurrence Analysis for Automatic Parallelization of Subscripted Subscripts](https://akshayud.me/PPoPP2024_intermin_draft.pdf). Accepted to appear in the Proceedings of the 29th ACM SIGPLAN Annual Symposium on
-Principles and Practice of Parallel Programming (PPoPP '24). Association for Computing Machinery, New York, NY, USA, 2024.
+* Akshay Bhosale and Rudolf Eigenmann. 2024. Recurrence Analysis for Automatic Parallelization of Subscripted Subscripts. In Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP '24). Association for Computing Machinery, New York, NY, USA, 80–93. [DOI](https://doi.org/10.1145/3627535.3638493) ,
+ [Submission Version](https://akshayud.me/PPoPP2024_intermin_draft.pdf) - Won the Best Artifact Award!
 
 * Akshay Bhosale and Rudolf Eigenmann. [COMPASS: A Combined Parallel Subscripted Subscript Benchmark Suite](https://akshayud.me/LCPC2023_final.pdf). Accepted to appear in the Proceedings of the 36th workshop on Languages and Compilers for Parallel Computing (LCPC '23). Springer, 2023.
 
@@ -42,7 +36,7 @@ Principles and Practice of Parallel Programming (PPoPP '24). Association for Com
 ## __HPC Lab at the University of Delaware__ 
 Lab Website - (https://www.eecis.udel.edu/~eigenman/research.html)
 
-I am a part of the HPC Lab at UD headed by Prof. [Rudi Eigenmann](https://www.ece.udel.edu/people/faculty/eigenman/). We create software tools to support the larger community involved in HPC research. We are interested in providing support to domain scientists to advance their research through HPC.
+I was a part of the HPC Lab at UD headed by Prof. [Rudi Eigenmann](https://www.ece.udel.edu/people/faculty/eigenman/). I did my PhD being part of this lab.
 
 ## __Internships__ 
 At the [Pacific Northwest National Lab](https://www.pnnl.gov)
@@ -50,40 +44,39 @@ At the [Pacific Northwest National Lab](https://www.pnnl.gov)
 In this project we implemented a Python frontend for a Domain Specific Compiler base on [MLIR](https://mlir.llvm.org) for Computational Chemistry applications. The compiler is called [COMET](https://github.com/pnnl/COMET). 
 
 
-## __Past Projects__
+## __Past Research__
 
-### [Web Application Security Projects](http://webappsecurity.akshayud.me/)
-Building applications using PHP, HTML and javascript. Emphasis was on building applications for the web but keeping in mind the security of these applications. Details about the projects and the skills gained can be found at the link above. 
+### [Advanced Compiler Analysis Techniques for Irregular Computations](http://subscripted-subscript.akshayud.me/)
 
+Implemented an Analysis technique and extended the related Dependence Test for compile-time automatic parallelization of Subscripted Subscript patterns using the [Cetus](https://sites.udel.edu/cetus-cid/) Source to Source translator which translates from C to C annoted with OpenMP. Details in the publications listed above.
 
-### [Secure Software design portfolio](http://secure-software.akshayud.me/)
-
-Creating secure software applications is the need of the hour, so as to address the growing concern regarding cybersecurity. With this in mind, we created non-hackable applications which serve a purpose.
 
 ## __Personal Background__
 
 * __Education__:
-  * PhD (Since 2019) - [University of Delaware](https://www.udel.edu/)
-  * B.E (2016) - [University of Mumbai](http://mu.ac.in/)
+  * PhD (2018 - 2023) - [University of Delaware](https://www.udel.edu/)
+  * B.E (2012 - 2016) - [University of Mumbai](http://mu.ac.in/)
   <br/><br/>
 * __Leadership Positions held at University of Delaware__
-  * VP Student Affairs - [Graduate Student Government](https://sites.udel.edu/gsg/)
-  * International Student Leader(2018 - present) - [Office of International Students and Scholars](http://www1.udel.edu/oiss/)
+  * VP Student Affairs (2020 - 2021) - [Graduate Student Government](https://sites.udel.edu/gsg/)
+  * International Student Leader (2018 - 2019) - [Office of International Students and Scholars](http://www1.udel.edu/oiss/)
   * Team Lead - [Blue Hen iBuddy Global Mentoring Program](http://www1.udel.edu/oiss/isac/mentor)
   
 
 ## __Contact Info__
 
-Department of Electrical and Computer Engineering <br/>
-208 Evans Hall <br/>
-Newark,DE,USA
+Department of Computer Science <br/>
+William Gates Building, JJ Thompson Ave <br/>
+Room SC07 <br/>
+University of Cambridge <br/>
+Cambridge,Cambridgeshire,UK
 
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
 </head>
 <body>
 <p>
-<i style="font-size:24px" class="fa">&#xf0e0;</i> &nbsp;  akshay@udel.edu </p>
+<i style="font-size:24px" class="fa">&#xf0e0;</i> &nbsp;  asb227@cam.ac.uk </p>
 </body>
 
 
