@@ -1,4 +1,4 @@
-![image](https://github.com/akshayud/akshayud.github.io/assets/31522126/287361a6-4580-434a-97f4-3e37f9c014b1)  
+
 <p style="text-align:center;"> <img style="float: middle;" src="https://user-images.githubusercontent.com/31522126/73979783-d8886f80-48fc-11ea-870c-7d60bae6ef26.png" width=250 height=250></p>
 
 # __Something about me__
