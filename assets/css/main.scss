@@ -1,0 +1,22 @@
+---
+# Only front matter needed, no layout, no title
+---
+
+@import "minimal-mistakes/skins/mint"; 
+@import "minimal-mistakes"; // load the theme styles
+
+/* --- your overrides --- */
+.author__avatar img {
+  max-width: 250px !important;  /* adjust to your size */
+  width: 225px !important;      /* optional: force exact size */
+  height: 190px;                 /* keeps proportions */
+}
+
+.sidebar {
+  text-align: center;
+  transform: translateX(-15px);
+}
+
+.sidebar .author__avatar img {
+  margin: 0 auto; /* ensures image itself is centered */
+}
